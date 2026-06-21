@@ -51,12 +51,12 @@ A graph-based Social Network Simulator built in **C++** using **Visual Studio**,
 
 | ID | Name | City |
 |----|------|------|
-| 0 | Alice | New York |
-| 1 | Bob | LA |
-| 2 | Charlie | Chicago |
-| 3 | Diana | NY |
-| 4 | Eve | SF |
-| 5 | Frank | Boston |
+| 1 | Alice | New York |
+| 2 | Bob | LA |
+| 3 | Charlie | Chicago |
+| 4 | Diana | NY |
+| 5 | Eve | SF |
+| 6 | Frank | Boston |
 
 ## Network Visualisation:
 <img width="798" height="651" alt="Screenshot 2026-04-28 204423" src="https://github.com/user-attachments/assets/7de403e4-2d7d-4047-b843-cd745a750edc" />
