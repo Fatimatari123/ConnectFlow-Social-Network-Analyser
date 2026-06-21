@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConnectFlow.vcxproj" Id="1837f19f-4ff5-4c3b-8b06-f0823a98e393" />
+</Solution>
