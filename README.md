@@ -59,4 +59,5 @@ A graph-based Social Network Simulator built in **C++** using **Visual Studio**,
 | 5 | Frank | Boston |
 
 ## Network Visualisation:
-<img width="798" height="651" alt="image" src="https://github.com/user-attachments/assets/89882367-d552-49bb-a2f0-cd5f7a7fdf88" />
+<img width="798" height="651" alt="Screenshot 2026-04-28 204423" src="https://github.com/user-attachments/assets/32969dc2-f610-4838-84c7-b80ddf741d9f" />
+
